@@ -3,7 +3,23 @@
 Nodejs Chapter 3 - Design Pattern
 https://www.meetup.com/meetup-group-ekjaXrHr/events/276395298/
 
-# Creational design patterns
+**What are design patterns?**
+> Reusable, reliable solutions to problem that we face every day in software development
+
+**Design Patterns**
+* Cataloged solutions
+* Reusable in many different situations
+* Well documented
+* Language for collaboration 
+* Improve architecture
+* Write better program
+* Become a better programmer
+
+**Classical design patterns**
+
+> ![alt text](https://github.com/akshayShirude/nodejs-design-patterns/blob/main/gof-design-pattern-category-diagram.PNG?raw=true)
+
+**Creational design patterns**
 * Singleton pattern
 > "Ensure a class only has one instance, and provide a global point of access to it"
 * Prototype pattern 
